@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+
+*.user
+*.suo
+*.cache
+*.pdb
+
+packages/
+
+*.mdf
+*.ldf
+
+appsettings.Development.json
